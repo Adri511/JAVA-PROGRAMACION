@@ -1,0 +1,10 @@
+run:
+Introduce la hora 
+234935
+Introduce los minutos
+432
+Introduce los segundos
+432
+LA HORA QUE SE MUESTRA A CONTINUACION NO ES VALIDA
+Son las 234935:432:433
+BUILD SUCCESSFUL (total time: 9 seconds)
