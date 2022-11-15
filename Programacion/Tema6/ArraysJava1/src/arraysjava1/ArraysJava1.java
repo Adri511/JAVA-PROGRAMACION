@@ -28,9 +28,10 @@ public class ArraysJava1 {
         }
         for(int j=0;j<guardar.length;j++){
             
-                System.out.println(guardar[j]);
-        
+                System.out.println(guardar[j]);        
         }
+
+        
         
            
         
